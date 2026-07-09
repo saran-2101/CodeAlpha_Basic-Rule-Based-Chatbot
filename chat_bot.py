@@ -2,9 +2,10 @@
 Basic Rule-Based Chatbot
 ------------------------
 A simple chatbot that responds to predefined user inputs.
-Author: Your Name
+Author: SARAN S
 Language: Python 3
 """
+
 def chatbot():
     print("=" * 40)
     print("      🤖 BASIC RULE-BASED CHATBOT")
@@ -16,6 +17,7 @@ def chatbot():
     print("  • who created you")
     print("  • bye")
     print("-" * 40)
+    
     while True:
         user = input("\nYou: ").strip().lower()
         if user == "hello":
@@ -32,6 +34,8 @@ def chatbot():
         else:
             print("Bot: Sorry, I don't understand that.")
             print("Bot: Try typing 'hello' or 'help'.")
+            
 # Start the chatbot
+
 if __name__ == "__main__":
     chatbot()
