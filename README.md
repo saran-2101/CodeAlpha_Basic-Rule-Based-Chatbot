@@ -1,4 +1,3 @@
-
 # 🤖 Basic Rule-Based Chatbot
 
 A simple command-line chatbot built with **Python** that responds to predefined user inputs using `if-elif-else` conditional logic. A beginner-friendly project demonstrating the fundamentals of Python programming — no external libraries or APIs required.
@@ -141,17 +140,12 @@ Building this project covers:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/Basic-Rule-Based-Chatbot/issues) or submit a pull request.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/saran-2101/Basic-Rule-Based-Chatbot/issues) or submit a pull request.
 
 ---
 
 ## 👨‍💻 Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**SARAN S**
+GitHub: [@saran-2101](https://github.com/saran-2101)
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE) — free to use, modify, and share for learning purposes.
